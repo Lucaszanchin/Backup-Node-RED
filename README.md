@@ -57,4 +57,17 @@ Este repositório foi criado para:
 
 ## 👨‍💻 Autor
 
+**Projeto:** La Cucina
+
+**Curso:** Técnico em Desenvolvimento de Sistemas
+
+**Instituição:** SENAI
+
+### Integrantes
+
+* André Fernandes Antunes da Silva
+* Jasiel Junior Fernandes Santos
+* Lucas Campos Zanchin
+
 Desenvolvido para fins de estudo, desenvolvimento e backup de projetos utilizando **Node-RED**.
+
