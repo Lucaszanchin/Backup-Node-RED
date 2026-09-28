@@ -11,6 +11,15 @@ Este repositório tem como objetivo manter uma cópia segura dos fluxos desenvol
 ## 💾 Como realizar um backup
 
 Antes de realizar alterações importantes no projeto, recomenda-se salvar uma cópia dos arquivos do Node-RED.
+Depois de atualizar os arquivos:
+
+Depois de atualizar os arquivos:
+
+```bash
+git add .
+git commit -m "backup: atualiza fluxos do Node-RED"
+git push
+```
 
 Também é possível utilizar o recurso de exportação do próprio Node-RED para salvar os fluxos em formato JSON.
 
@@ -56,8 +65,6 @@ Este repositório foi criado para:
 ---
 
 ## 👨‍💻 Autor
-
-**Projeto:** La Cucina
 
 **Curso:** Técnico em Desenvolvimento de Sistemas
 
